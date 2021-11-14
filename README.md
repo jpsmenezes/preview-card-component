@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/html-css-flexbox-8M-QWhF1n)
 - Live Site URL: [live site URL](https://jpsmenezes.github.io/preview-card-component/)
 
 ## My process
