@@ -26,6 +26,7 @@ main{
     justify-content: center;      
     width:100%;
     max-width: 1440px;
+    min-width: 360px;
     height: 446px;     
 }
 section.left{
@@ -123,6 +124,9 @@ section.right{
     }
     section.left{        
         padding: 45px 7% 0;    
+    }
+    section.right{        
+        height: 40vh;
     }
 }
 
