@@ -106,9 +106,23 @@ section.right{
     }
     .stats div{
         margin-bottom: 35px;
+    }    
+    section.right{        
+        height: 50vh;
     }
-    .stats div:last-child{
-        margin-bottom: 0px;
+}
+@media screen and (max-width: 388px){
+    section.left h1{    
+        font-size: 2.5rem;
+        margin-bottom: 30px;         
+    }
+    section.left p{        
+        font-size: 1.4rem;
+        line-height: 24px;
+        margin-bottom: 50px;  
+    }
+    section.left{        
+        padding: 45px 7% 0;    
     }
 }
 
